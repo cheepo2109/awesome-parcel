@@ -141,6 +141,7 @@
 
 - [Parcel — очень быстрый бандлер, не требующий настройки](https://habr.com/ru/post/344486/) - Parcel quick review.
 - [Parcel — пишем плагин](https://habr.com/ru/post/344858/) - How to write a Parcel plugin.
+- [Разделяем код с помощью Parcel] (https://webformyself.com/kody-razdelyaemye-s-pomoshhyu-parcel-web-app-bundler/)
 
 ### French
 
